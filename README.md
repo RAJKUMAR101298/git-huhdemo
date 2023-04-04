@@ -1,1 +1,1 @@
-# git-huhdemo
+# git-hubdemo
